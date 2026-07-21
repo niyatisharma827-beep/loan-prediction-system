@@ -127,11 +127,11 @@ Enter the applicant's financial and personal details below to run the assessment
 
 developer_info = """
 ### About the Developer
-* **Name:** Niyati Sharma
-* **College Name:** Panipat Institute of Engineering and technology
-* **Branch:** B.Tech CSE 
+* **Name:**Niyati Sharma
+* **College Name:**Panipat Institute of engineering and technology
+* **Branch:** B>Tech CSE
 * **Roll No:**28240236
----
+
 ### 🛠️ Tools & Technologies Used
 * **Machine Learning:** Scikit-learn (Random Forest Classifier)
 * **Web Framework:** Gradio
