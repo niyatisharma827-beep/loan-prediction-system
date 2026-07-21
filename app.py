@@ -1,5 +1,3 @@
-# app.py
-
 import os
 import joblib
 import gradio as gr
@@ -117,17 +115,22 @@ DESCRIPTION = """
 
 This application predicts whether an applicant's loan will be **Approved** or **Rejected** using a trained **Random Forest Machine Learning Model**.
 
+---
+### 👨‍🎓 Student Details
+* **Name:** Chandan Saroj
+* **College:** Your College Name
+* **Branch:** Your Branch Name
+* **Roll No:** Your Roll Number
+
 Enter the applicant's financial and personal details below to run the assessment.
 """
 
 developer_info = """
 ### About the Developer
-**Created by:** Chandan Saroj
-
-* **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL_HERE)
-* **GitHub:** [Check out my projects](YOUR_GITHUB_URL_HERE)
-* **Instagram:** [Follow me](YOUR_INSTAGRAM_URL_HERE)
-
+* **Name:** Niyati Sharma
+* **College Name:** Panipat Institute of Engineering and technology
+* **Branch:** B.Tech CSE 
+* **Roll No:**28240236
 ---
 ### 🛠️ Tools & Technologies Used
 * **Machine Learning:** Scikit-learn (Random Forest Classifier)
