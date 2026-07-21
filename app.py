@@ -117,20 +117,10 @@ This application predicts whether an applicant's loan will be **Approved** or **
 
 ---
 ### 👨‍🎓 Student Details
-* **Name:** Chandan Saroj
-* **College:** Your College Name
-* **Branch:** Your Branch Name
-* **Roll No:** Your Roll Number
-
-Enter the applicant's financial and personal details below to run the assessment.
-"""
-
-developer_info = """
-### About the Developer
-* **Name:**Niyati Sharma
-* **College Name:**Panipat Institute of engineering and technology
-* **Branch:** B>Tech CSE
-* **Roll No:**28240236
+* **Name:** Niyati Sharma
+* **College:** Panipat Institute of engineering and technology
+* **Branch:** B.Tech CSE
+* **Roll No:** 28240236
 
 ### 🛠️ Tools & Technologies Used
 * **Machine Learning:** Scikit-learn (Random Forest Classifier)
